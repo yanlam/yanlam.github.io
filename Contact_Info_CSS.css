@@ -1,0 +1,82 @@
+html{
+    background-blend-mode: lighten;
+    background-image: linear-gradient(#283747, #E74C3C); 
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+}
+
+.Contact_Page{
+    box-sizing: border-box;
+    display: block;
+    width:100%;
+    float: left;
+}
+#email, #phonenumber, #contactcontent{
+    font-size: 40px;
+    text-align: center;
+    width: 100%;
+    border-top: 50%;
+    font-family: 'Paprika';
+    
+}
+
+ul{
+    box-sizing: border-box;
+    height: 50px;
+    padding: 5px;
+    margin: 0;
+    z-index: 1;
+}
+.header{
+    float: right;
+}
+
+li{
+    box-sizing: border-box;
+    list-style-type: none;
+    float: right;
+    display: inline-block;
+    width: 180px;
+    margin: 5px;
+    padding: 2px;
+    font-size: 32px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 2px;
+    font-family: 'Croissant One';
+    text-align: center;
+    
+    
+}
+
+#Home_Page_tab{
+    background-color: transparent;
+    border-color: #F2D7D5;
+    
+}
+#About_Me_tab{
+    background-color: transparent;
+    border-color: #F2D7D5;
+}
+
+#Games_tab{
+    background-color: transparent;
+    border-color: #F2D7D5;
+}
+#Resume_tab{
+    background-color: transparent;
+    border-color: #F2D7D5;
+}
+
+#Contact_Info_tab{
+    background-color: transparent;
+    border-color: #F2D7D5;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:link{
+    text-decoration: none;
+}
