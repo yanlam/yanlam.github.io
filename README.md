@@ -1,1 +1,0 @@
-# yanlam.github.io
